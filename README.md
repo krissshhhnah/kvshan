@@ -54,8 +54,6 @@ Blogger (CMS) → JSON Feed API → Custom JS Fetch → Slug-Based Routing → D
 ```text
 /
 ├── index.html
-├── blog.js
-├── style.css
 └── README.md
 ```
 
